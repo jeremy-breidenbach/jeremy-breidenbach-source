@@ -62,15 +62,15 @@
 
 <div class="row">
     <div class="col-md-7">
-        <a href="http://freight-damage-maps.heroku.com/" target="_blank">
-            <img class="img-responsive" src="/images/FreightDamageMaps700x300.jpg" alt="Screenshot of freight-damage-maps.heroku.com">
+        <a href="http://freightdamagemaps.surge.sh" target="_blank">
+            <img class="img-responsive" src="/images/FreightDamageMaps700x300.jpg" alt="Screenshot of freightdamagemaps.surge.sh">
         </a>
     </div>
     <div class="col-md-5">
         <h3>Freight Damage Maps</h3>
         <h4>Google Maps API</h4>
-        <p>Freight Damage Maps is a Google Maps API integration, created to show the distribution of freight damage by carrier. In addition to the Google Maps API, Freight Damage Maps uses two JavaScript libraries (Overlapping Marker Spiderfier and Marker Clusterer) to improve usability.</p>
-        <a class="btn btn-primary" href="http://freight-damage-maps.heroku.com/" target="_blank">Visit Site <span class="fa fa-external-link"></span></a>
+        <p>Freight Damage Maps is a Google Maps API integration, created to show the distribution of freight damage by carrier. In addition to the Google Maps API, Freight Damage Maps uses Vue.js as well as two JavaScript map libraries (Overlapping Marker Spiderfier and Marker Clusterer) to improve usability.</p>
+        <a class="btn btn-primary" href="http://freightdamagemaps.surge.sh/" target="_blank">Visit Site <span class="fa fa-external-link"></span></a>
         <a class="btn btn-default button-right" href="https://github.com/jeremy-breidenbach/FreightDamageMaps" target="_blank">View Project <span class="fa fa-github"></span></a>
     </div>
 </div>
